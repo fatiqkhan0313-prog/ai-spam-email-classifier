@@ -1,4 +1,6 @@
-# AI Spam Email Classifier
+## Summary
+
+This project uses Artificial Intelligence and Machine Learning to classify emails as spam or not spam using TF-IDF and Logistic Regression.# AI Spam Email Classifier
 
 A beginner-friendly AI project that classifies an email message as **spam** or **not spam** using machine learning.
 
